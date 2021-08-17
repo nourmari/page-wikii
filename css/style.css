@@ -1,0 +1,30 @@
+h1{
+    color:rgb(255, 94, 0) ;
+text-align: center;
+margin-top: 2em;
+margin-left: 12em;
+margin-right: 12em;
+background-color: rgb(63, 248, 7); 
+}
+h2{
+    color: rgb(121, 65, 225);
+    padding:left ;
+
+}
+
+img{ 
+width:40%;
+}
+.img1{
+    width: 59em ;
+height:40em ;
+padding-left: 10em;
+
+
+}
+.p{
+    text-align: center;
+}
+body{
+    background-color: rosybrown;
+}
